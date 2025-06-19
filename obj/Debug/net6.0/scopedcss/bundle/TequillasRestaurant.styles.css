@@ -1,0 +1,49 @@
+/* _content/TequillasRestaurant/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-mgw5e2d5l1] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-mgw5e2d5l1] {
+  color: #0077cc;
+}
+
+.btn-primary[b-mgw5e2d5l1] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-mgw5e2d5l1], .nav-pills .show > .nav-link[b-mgw5e2d5l1] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-mgw5e2d5l1] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-mgw5e2d5l1] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-mgw5e2d5l1] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-mgw5e2d5l1] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-mgw5e2d5l1] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

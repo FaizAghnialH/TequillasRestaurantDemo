@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROG STRIX\\Documents\\01_MyFolder\\10_Projects\\.NET\\TequillasRestaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2E6412-F8CE-44BF-B91F-B23FC096C6EE}|TequillasRestaurant.csproj|c:\\users\\rog strix\\documents\\01_myfolder\\10_projects\\.net\\tequillasrestaurant\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2E6412-F8CE-44BF-B91F-B23FC096C6EE}|TequillasRestaurant.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2E6412-F8CE-44BF-B91F-B23FC096C6EE}|TequillasRestaurant.csproj|c:\\users\\rog strix\\documents\\01_myfolder\\10_projects\\.net\\tequillasrestaurant\\models\\productingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2E6412-F8CE-44BF-B91F-B23FC096C6EE}|TequillasRestaurant.csproj|solutionrelative:models\\productingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2E6412-F8CE-44BF-B91F-B23FC096C6EE}|TequillasRestaurant.csproj|c:\\users\\rog strix\\documents\\01_myfolder\\10_projects\\.net\\tequillasrestaurant\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2E6412-F8CE-44BF-B91F-B23FC096C6EE}|TequillasRestaurant.csproj|solutionrelative:models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2E6412-F8CE-44BF-B91F-B23FC096C6EE}|TequillasRestaurant.csproj|c:\\users\\rog strix\\documents\\01_myfolder\\10_projects\\.net\\tequillasrestaurant\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB2E6412-F8CE-44BF-B91F-B23FC096C6EE}|TequillasRestaurant.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductIngredient.cs",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\Documents\\01_MyFolder\\10_Projects\\.NET\\TequillasRestaurant\\Models\\ProductIngredient.cs",
+              "RelativeDocumentMoniker": "Models\\ProductIngredient.cs",
+              "ToolTip": "C:\\Users\\ROG STRIX\\Documents\\01_MyFolder\\10_Projects\\.NET\\TequillasRestaurant\\Models\\ProductIngredient.cs",
+              "RelativeToolTip": "Models\\ProductIngredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:38:49.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\Documents\\01_MyFolder\\10_Projects\\.NET\\TequillasRestaurant\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Models\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\ROG STRIX\\Documents\\01_MyFolder\\10_Projects\\.NET\\TequillasRestaurant\\Models\\Ingredient.cs",
+              "RelativeToolTip": "Models\\Ingredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:37:39.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\Documents\\01_MyFolder\\10_Projects\\.NET\\TequillasRestaurant\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ROG STRIX\\Documents\\01_MyFolder\\10_Projects\\.NET\\TequillasRestaurant\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:21:26.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\Documents\\01_MyFolder\\10_Projects\\.NET\\TequillasRestaurant\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\ROG STRIX\\Documents\\01_MyFolder\\10_Projects\\.NET\\TequillasRestaurant\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T08:19:55.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
