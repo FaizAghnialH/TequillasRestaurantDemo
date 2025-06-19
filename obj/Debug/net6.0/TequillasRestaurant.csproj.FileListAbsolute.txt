@@ -84,3 +84,4 @@ C:\Users\ROG STRIX\Documents\01_MyFolder\10_Projects\.NET\TequillasRestaurant\ob
 C:\Users\ROG STRIX\Documents\01_MyFolder\10_Projects\.NET\TequillasRestaurant\obj\Debug\net6.0\TequillasRestaurant.pdb
 C:\Users\ROG STRIX\Documents\01_MyFolder\10_Projects\.NET\TequillasRestaurant\obj\Debug\net6.0\TequillasRestaurant.genruntimeconfig.cache
 C:\Users\ROG STRIX\Documents\01_MyFolder\10_Projects\.NET\TequillasRestaurant\obj\Debug\net6.0\ref\TequillasRestaurant.dll
+C:\Users\ROG STRIX\Documents\01_MyFolder\10_Projects\.NET\TequillasRestaurant\obj\Debug\net6.0\TequillasRestaurant.sourcelink.json
